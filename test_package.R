@@ -1,4 +1,4 @@
 library(DBI)
-library(tidyverse) #load many package
+library(tidyverse) #often used to data
 library(RPostgres) 
 #hello
